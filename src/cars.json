@@ -1,0 +1,57 @@
+ [
+    {
+        "id": 1,
+        "name": "Seat Leon",
+        "category": "Basic",
+        "yearofproduction":2019,
+        "baseamount":300,
+        "avgfuelcons":8,
+        "amountofmodel":3,
+        "localization":"Rzeszów",
+        "srcc":"/seatleon.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Mercedes C klasa",
+        "category": "Medium",
+        "yearofproduction":2018,
+        "baseamount":500,
+        "avgfuelcons":10,
+        "amountofmodel":2,
+        "localization":"Rzeszów",
+        "srcc":"/mercedes.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Audi A6",
+        "category": "Standard",
+        "yearofproduction":2017,
+        "baseamount":450,
+        "avgfuelcons":12,
+        "amountofmodel":1,
+        "localization":"Rzeszów",
+        "srcc":"/audia6.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Subaru Impreza",
+        "category": "Premium",
+        "yearofproduction":2023,
+        "baseamount":900,
+        "avgfuelcons":16,
+        "amountofmodel":1,
+        "localization":"Rzeszów",
+        "srcc":"/subaruimpreza.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Lamborghini Aventador",
+        "category": "Premium",
+        "yearofproduction":2022,
+        "baseamount":1900,
+        "avgfuelcons":26,
+        "amountofmodel":3,
+        "localization":"Rzeszów",
+        "srcc":"/aventador.jpg"
+    }
+  ]
