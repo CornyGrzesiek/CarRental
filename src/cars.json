@@ -8,7 +8,7 @@
         "avgfuelcons":8,
         "amountofmodel":3,
         "localization":"Rzeszów",
-        "srcc":"/seatleon.jpg"
+        "srcc":"public/seatleon.jpg"
     },
     {
         "id": 2,
@@ -19,7 +19,7 @@
         "avgfuelcons":10,
         "amountofmodel":2,
         "localization":"Rzeszów",
-        "srcc":"/mercedes.jpg"
+        "srcc":"public/mercedes.jpg"
     },
     {
         "id": 3,
@@ -30,7 +30,7 @@
         "avgfuelcons":12,
         "amountofmodel":1,
         "localization":"Rzeszów",
-        "srcc":"/audia6.jpg"
+        "srcc":"public/audia6.jpg"
     },
     {
         "id": 4,
@@ -41,7 +41,7 @@
         "avgfuelcons":16,
         "amountofmodel":1,
         "localization":"Rzeszów",
-        "srcc":"/subaruimpreza.jpg"
+        "srcc":"public/subaruimpreza.jpg"
     },
     {
         "id": 5,
@@ -52,6 +52,6 @@
         "avgfuelcons":26,
         "amountofmodel":3,
         "localization":"Rzeszów",
-        "srcc":"/aventador.jpg"
+        "srcc":"public/aventador.jpg"
     }
   ]
