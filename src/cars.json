@@ -8,7 +8,7 @@
         "avgfuelcons":8,
         "amountofmodel":3,
         "localization":"Rzeszów",
-        "srcc":"public/seatleon.jpg"
+        "srcc":"./../public/seatleon.jpg"
     },
     {
         "id": 2,
