@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cornygrzesiek.githiub.io/carrental/static/css/main.a9d17411.css",
-    "main.js": "/cornygrzesiek.githiub.io/carrental/static/js/main.fd558b20.js",
-    "static/js/787.588b1b70.chunk.js": "/cornygrzesiek.githiub.io/carrental/static/js/787.588b1b70.chunk.js",
-    "index.html": "/cornygrzesiek.githiub.io/carrental/index.html",
-    "main.a9d17411.css.map": "/cornygrzesiek.githiub.io/carrental/static/css/main.a9d17411.css.map",
-    "main.fd558b20.js.map": "/cornygrzesiek.githiub.io/carrental/static/js/main.fd558b20.js.map",
-    "787.588b1b70.chunk.js.map": "/cornygrzesiek.githiub.io/carrental/static/js/787.588b1b70.chunk.js.map"
+    "main.css": "/carrental/static/css/main.a9d17411.css",
+    "main.js": "/carrental/static/js/main.a9aedd6f.js",
+    "static/js/787.588b1b70.chunk.js": "/carrental/static/js/787.588b1b70.chunk.js",
+    "index.html": "/carrental/index.html",
+    "main.a9d17411.css.map": "/carrental/static/css/main.a9d17411.css.map",
+    "main.a9aedd6f.js.map": "/carrental/static/js/main.a9aedd6f.js.map",
+    "787.588b1b70.chunk.js.map": "/carrental/static/js/787.588b1b70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a9d17411.css",
-    "static/js/main.fd558b20.js"
+    "static/js/main.a9aedd6f.js"
   ]
 }
