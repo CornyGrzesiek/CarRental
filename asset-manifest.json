@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CornyGrzesiek.githiub.io/carrental/static/css/main.a9d17411.css",
+    "main.js": "/CornyGrzesiek.githiub.io/carrental/static/js/main.f0206e07.js",
+    "static/js/787.588b1b70.chunk.js": "/CornyGrzesiek.githiub.io/carrental/static/js/787.588b1b70.chunk.js",
+    "index.html": "/CornyGrzesiek.githiub.io/carrental/index.html",
+    "main.a9d17411.css.map": "/CornyGrzesiek.githiub.io/carrental/static/css/main.a9d17411.css.map",
+    "main.f0206e07.js.map": "/CornyGrzesiek.githiub.io/carrental/static/js/main.f0206e07.js.map",
+    "787.588b1b70.chunk.js.map": "/CornyGrzesiek.githiub.io/carrental/static/js/787.588b1b70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9d17411.css",
+    "static/js/main.f0206e07.js"
+  ]
+}
