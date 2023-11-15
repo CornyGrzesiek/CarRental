@@ -19,7 +19,7 @@
         "avgfuelcons":10,
         "amountofmodel":2,
         "localization":"Rzeszów",
-        "srcc":"public/mercedes.jpg"
+        "srcc":"/blob/main/public/mercedes.jpg"
     },
     {
         "id": 3,
